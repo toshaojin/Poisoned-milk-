@@ -20,7 +20,7 @@
 
 
 ## 2.下载预设配置文件
-0. 复制`https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Gift/Without/QuantumultX4limbopro.conf`预配置文件链接；
+0. 复制`https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Gift/Without/QuantumultX4limbopro.conf`预配置文件链接；(新朋友可以试试`https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Gift/Without/QuantumultX4limbopro.beta.conf`)
 1. 进入`QuantumultX`，点击右下角`三菱`按钮；
 2. 找到`配置文件`模块下的`下载`，点击；
 3. 粘贴刚刚复制的配置链接，点击右上角`确定`按钮；
