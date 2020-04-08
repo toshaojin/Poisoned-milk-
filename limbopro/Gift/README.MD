@@ -1,7 +1,8 @@
 ## 更新 04.08.2020
 
-如大家需要使用 JS ，建议大家转移使用 Unzip 版本（轻松版） https://github.com/limbopro/Profiles/blob/master/limbopro/Gift/Without/unzip/README.MD
+如大家需要使用 JS ，建议大家转移使用 Unzip 版本（简单轻松快乐版）https://github.com/limbopro/Profiles/blob/master/limbopro/Gift/Without/unzip/README.MD 
 
+---
 
 # 主理人说
 
