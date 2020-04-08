@@ -64,6 +64,9 @@
 2. 进入 QuantumultX 主界面 - 各个图标点一下 看一下
 3. 熟悉一下
 
+## 最后 BTW
+如果以后有更新的话，你也会驾轻就熟。
+
 ### 进阶玩法
 https://limbopro.xyz/archives/3846.html
 
