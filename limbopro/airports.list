@@ -91,3 +91,11 @@ DOMAIN-KEYWORD,1socloud,PROXY
 DOMAIN-KEYWORD,socloud,PROXY
 DOMAIN-KEYWORD,bnbpro,PROXY
 DOMAIN-KEYWORD,jinkela,PROXY
+
+# > Tiktok 测试
+USER-AGENT,TikTok*,proxy
+DOMAIN-SUFFIX,musical.ly,proxy
+DOMAIN-SUFFIX,tiktokv.com,proxy
+DOMAIN-SUFFIX,tiktokcdn.com,proxy
+DOMAIN-KEYWORD,-tiktokcdn-com,proxy
+DOMAIN-SUFFIX,pstatp.com,proxy
