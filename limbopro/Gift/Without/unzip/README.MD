@@ -1,4 +1,6 @@
-## 预配置文件（unzip版）说明
+![Quantumult x for limbopro][1]
+
+## 毒奶预配置文件（unzip版）说明
 
 0. 利用 Quantumult X 自带的 [配置文件] - [下载] 功能对 Quantumult X 各个模块即参数进行预配置；
 1. 利用 NobyDa 贡献的脚本解锁🔓各项事务，VSCO，Termius，等；
@@ -11,6 +13,18 @@
 2. [ConnersHua](https://github.com/ConnersHua/Profiles/tree/master) 神机规则
 3. [limbopro](https://github.com/limbopro/Profiles/tree/master/limbopro) 机场专线
 4. [Qure](https://github.com/Koolson/Qure/tree/master/IconSet) 开源图标
+
+## 关于策略及分流的说明
+- 故障切换：该策略组自动检测组内节点可用情况（surge 会切换选中最低延迟节点）；
+- 机场专线：主流机场域名分流规则，例如 N3RO ，你可使其请求走代理，直连等；
+- 社交媒体：国外社交媒体，如Twitter/Facebook/Instagram等，**流量消耗小，但需要稳定**；
+- 苹果服务：苹果服务相关分流规则；
+- Netflix：鉴于大家喜欢看 Netflix；
+- 其他国外流媒体：如油管，P站等一切你可以想得到国外流媒体，**流量消耗大**；
+- 广告拦截：你可以选择让其 Reject 或者 代理 或者别的；
+- Final： 排除以上已知的分流规则的其他未知；
+
+* GEOIP,CN,DIRECT，默认中国大陆网站均走直连；
 
 ## 具体操作
 ### 第一步 ⏬ 下载 脚本仓库压缩包
@@ -52,3 +66,5 @@
 
 ### 进阶玩法
 https://limbopro.xyz/archives/3846.html
+
+[1]: https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Gift/Without/unzip/Quantumult%20X%20for%20limbopro.jpg
