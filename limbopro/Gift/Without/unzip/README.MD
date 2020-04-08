@@ -1,9 +1,9 @@
 ## 预配置文件（unzip版）说明
 
-由于最近对订阅转换API进行了调教，在 Surge 与 Clash 身上表现出色；**基于统一，在此对 Quantumlt x 预配置进行 半年一大更的调教**；
-
+0. 利用 Quantumult X 自带的 [配置文件] - [下载] 功能对 Quantumult X 各个模块即参数进行预配置；
 1. 利用 NobyDa 贡献的脚本解锁🔓各项事务，VSCO，Termius，等；
 2. 另外默认配置的是 🔓 美区App Store下载的 Tiktok；届时自己进 [QuantumultX] - [配置文件] - [编辑] - 找到 Tiktok 修改参数即可 
+3. Surge/Clash 用户可以使用由毒奶提供的 订阅转换 API，亦能获得相同的效果；https://limbopro.xyz/archives/subconverter.html
 
 ## 本预配置文件所引用到的仓库
 0. 在此毒奶对大家的付出表示感谢
