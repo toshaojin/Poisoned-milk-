@@ -1,3 +1,8 @@
+
+## 更新 04.08.2020
+
+建议大家转移使用 Unzip 版本 https://github.com/limbopro/Profiles/blob/master/limbopro/Gift/Without/unzip/README.MD 
+
 # 预配置文件说明
 
 ![img](https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Gift/QuantumultX4limbopro.conf.PNG)
