@@ -73,6 +73,10 @@
 1. 确保 Quantumult X 已安装证书📄并且信任
 2. 进入 QuantumultX ，点击右下角 [三菱按钮] - 找到 [配置文件] 模块 - 点击 [编辑] - 找到 [rewrite_local] 下  `去微博应用内广告 (By yichahucha)` 被 # 号 注释的那行，删除 # 号即可；
 
+```
+#^https?://(sdk|wb)app\.uve\.weibo\.com(/interface/sdk/sdkad.php|/wbapplua/wbpullad.lua) url script-response-body QuantumultX/File/wb_launch.js
+```
+
 ### Tiktok 如何换区
 0. Tiktok 老是推荐美国🇺🇸用户上传的视频？换下国别代码即可；
 
