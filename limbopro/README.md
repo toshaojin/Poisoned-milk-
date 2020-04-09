@@ -1,7 +1,7 @@
 ## 新增两个子库
 
 1. 机场专线（80+机场分流配置）：https://github.com/limbopro/Profiles/tree/master/limbopro 
-2. QuantumultX 预配置文件： https://github.com/limbopro/Profiles/tree/master/limbopro/Gift
+2. QuantumultX 预配置文件： https://github.com/limbopro/Profiles/tree/master/limbopro/Gift/Without/unzip 轻松😉解锁🔓各种新姿势
 3. 以上；
 4. 下面为毒奶机场分流正式部分；
 
