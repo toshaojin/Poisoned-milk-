@@ -35,20 +35,17 @@ https://github.com/limbopro/Profiles/tree/master/limbopro/Gift/Without/unzip
  
  ## 毒奶特供の分流规则
  ### 10.17.2019 更新
- 经过一个小时的翻阅毒药测速记录，现已增加 80+ 机场域名记录；
+  - 经过一个小时的翻阅毒药测速记录，现已增加 80+ 机场域名记录；
+  - Clash/Surge 用户欢迎使用 订阅转换API https://limbopro.xyz/archives/subconverter.html 解锁🔓各种新姿势；
  
-- Quantumult:https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Quantumult.conf
-- Quantumult X:https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/QuantumultX.list
-- Shadowrocket:https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Shadowrocket.conf
-- Surge:https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Surge.list
+- Quantumult: https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/airports.list
+- Quantumult X: https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/airports.list
+- Shadowrocket: https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Shadowrocket.conf
 
 - 直接添加分流订阅即可，策略偏好选择`Proxy`；
 
 ## 如何配置毒奶特供の分流规则
 - 可参考：https://t.me/limboprossr/842 视频操作示范；
- 
-- Rules / 分流/去广告规则：Surge / Shadowrocket / Quantumult/ Quantumult X 及详细配置步骤教程（萌新小白版本）
- https://limbopro.xyz/archives/2561.html
 
 - 以上。
  
