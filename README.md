@@ -1,5 +1,6 @@
 ## 主理人说
-1. Folk 来自神机规则 https://github.com/ConnersHua/Profiles/tree/master
+1. Folk 来自神机规则，毒奶自用；
+3. 如你需要 **自行搭配** 使用神机规则，请访问神机源仓库 https://github.com/ConnersHua/Profiles/tree/master ；
 
 ## 毒奶专用分流规则
 https://github.com/limbopro/Profiles/tree/master/limbopro
@@ -10,7 +11,7 @@ https://github.com/limbopro/Profiles/tree/master/limbopro
 ---
 
 ## Quantumultx 预配置文件解锁🔓各项姿势（VSCO/Tiktok/Terimius...）
-https://github.com/limbopro/Profiles/tree/master/limbopro/Gift
+https://github.com/limbopro/Profiles/tree/master/limbopro/Gift/Without/unzip
 
 ### 毒奶预配置文件（unzip版）说明
 
