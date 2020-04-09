@@ -113,4 +113,7 @@
 ### 进阶玩法
 https://limbopro.xyz/archives/3846.html
 
+### 关注频道
+https://t.me/limboprossr
+
 [1]: https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Gift/Without/unzip/Quantumult%20X%20for%20limbopro.jpg
