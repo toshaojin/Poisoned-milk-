@@ -10,7 +10,12 @@ https://github.com/limbopro/Profiles/tree/master/limbopro
 ## Quantumultx 预配置文件解锁🔓各项姿势（VSCO/Tiktok/Terimius...）
 https://github.com/limbopro/Profiles/tree/master/limbopro/Gift
 
-1. 本预配置文件，相当于提前为QuantumultX预设策略（8个策略）及其策略图标，Rewrite 去广告规则，主流机场站点分流规则，以及无需拔卡看，Tiktok，解锁VSCO会员，Terimius等；务必遵循教程步骤前后顺序，以确保其可用性；
+### 毒奶预配置文件（unzip版）说明
+
+0. 利用 Quantumult X 自带的 [配置文件] - [下载] 功能对 Quantumult X 各个模块即参数进行预配置；
+1. 利用 NobyDa 贡献的脚本解锁🔓各项事务，VSCO，Termius，等；
+2. 另外默认配置的是 🔓 美区App Store下载的 Tiktok；届时自己进 [QuantumultX] - [配置文件] - [编辑] - 找到 Tiktok 修改参数即可 
+3. Surge/Clash 用户可以使用由毒奶提供的 订阅转换 API，亦能获得相同的效果；https://limbopro.xyz/archives/subconverter.html
 
 
 ## 后话
@@ -21,6 +26,9 @@ https://github.com/limbopro/Profiles/tree/master/limbopro/Gift
 
 以上。
 
+---
+
+以下为 神机规则 原始 Readme.MD 说明；
 
 ## 简介
 
