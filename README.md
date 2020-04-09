@@ -7,6 +7,8 @@ https://github.com/limbopro/Profiles/tree/master/limbopro
 1. 为了应对突发情况，例如机场域名被污染/墙而无法打开，在此我（提前）为各个机场写了分流规则（订阅即可使用）
 2. 已增加80+主流机场域名
 
+---
+
 ## Quantumultx 预配置文件解锁🔓各项姿势（VSCO/Tiktok/Terimius...）
 https://github.com/limbopro/Profiles/tree/master/limbopro/Gift
 
