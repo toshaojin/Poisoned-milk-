@@ -39,7 +39,7 @@
 * GEOIP,CN,DIRECT，默认中国大陆网站均走直连；
 
 ## 具体操作
-💡 视频操作教程请参阅：https://t.me/limboprossr/1702 （视频教程不包含生成证书与信任证书📚）
+💡 视频对照操作教程请参阅：https://t.me/limboprossr/1702 （视频教程不包含生成证书与信任证书📚）
 
 ### 第一步 ⏬ 下载 脚本仓库压缩包
 1. https://github.com/NobyDa/Script/archive/master.zip
