@@ -1,9 +1,8 @@
 ## 更新说明 04.09.2020
 1. 本次更新已精简 [Rewrite_local] 配置，并引用了 unzip适配版的 Js.conf
 2. 请重复一次教程 **第二步** 的操作，并重新配置证书📄；
-3. 然后进入 QuantumultX ，点击右下角 [三菱按钮] -
-4. [重写] - [引用] - 点击 [unzip适配版] 更新
-5. 未来只需执行 该操作以及 重复 **教程第一步** 即可（届时会有更新说明），无须再重新配置证书📄；
+3. 然后进入 QuantumultX ，点击右下角 [三菱按钮] - [重写] - [引用] - 点击 [unzip适配版] 更新 
+4. 未来只需执行 该操作以及 重复 **教程第一步** 即可（届时会有更新说明），无须再重新配置证书📄；
 
 ---
 
@@ -44,7 +43,7 @@
 ### 第一步 ⏬ 下载 脚本仓库压缩包
 0. 第一步 ⏬ 可使用 [WorkingCopy](https://limbopro.xyz/archives/workingcopy.html) 替代，如果不会可继续看下述教程操作；
 
-1. https://github.com/limbopro/Script/archive/master.zip
+1. https://github.com/NobyDa/Script/archive/master.zip
 2. 复制上述并在 Safari 打开下载，打开下载的文件
 3. 下载成功后，进入 [文件]App - [我的iPhone] - [下载项] 找到  Script-master.zip 并解压
 4. 进入解压后的 文件夹 [Script-master]
