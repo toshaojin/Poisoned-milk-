@@ -42,7 +42,7 @@
 💡 视频对照操作教程请参阅：https://t.me/limboprossr/1702 （视频教程不包含生成证书与信任证书📚）
 
 ### 第一步 ⏬ 下载 脚本仓库压缩包
-1. https://github.com/NobyDa/Script/archive/master.zip
+1. https://github.com/limbopro/Script/archive/master.zip
 2. 复制上述并在 Safari 打开下载，打开下载的文件
 3. 下载成功后，进入 [文件]App - [我的iPhone] - [下载项] 找到  Script-master.zip 并解压
 4. 进入解压后的 文件夹 [Script-master]
