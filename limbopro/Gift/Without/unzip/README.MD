@@ -38,7 +38,8 @@
 * GEOIP,CN,DIRECT，默认中国大陆网站均走直连；
 
 ## 具体操作
-💡 完整视频对照操作教程请参阅：https://t.me/limboprossr/1702  https://www.youtube.com/watch?v=4Sy0HUcOvYk&loop=0（视频教程不包含生成证书与信任证书📚）
+💡 完整视频对照操作教程请参阅：https://t.me/limboprossr/1702 ；
+或参阅 YouTube https://www.youtube.com/watch?v=4Sy0HUcOvYk&loop=0 （该视频教程不包含生成证书与信任证书📚）
 
 ### 第一步 ⏬ 下载 脚本仓库压缩包
 0. 第一步 ⏬ 建议尽量使用 [WorkingCopy](https://limbopro.xyz/archives/workingcopy.html) 替代，以方便以后更新（只需在在 WorkingCopy 内下拉即可更新）；如不想使用 WorkingCopy ，继续看下文；
